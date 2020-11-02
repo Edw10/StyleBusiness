@@ -1,2 +1,1 @@
 # Style Business
-# StyleBusiness
